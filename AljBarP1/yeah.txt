@@ -1,0 +1,12 @@
+2
+50
+C:/Users/Barry/Desktop/Eclipse Bilder/new1.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new2.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new3.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new4.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new5.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new6.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new7.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new8.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new9.jpg
+C:/Users/Barry/Desktop/Eclipse Bilder/new10.jpg
